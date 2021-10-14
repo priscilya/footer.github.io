@@ -1,0 +1,25 @@
+.main {
+    padding: 100px 80px;
+  }
+  .copy-container h1 {
+    font-size: 40px;
+  }
+  .copy-container p {
+    font-size: 20px;
+}
+
+.footer {
+    background: linear-gradient(to right, #9b59b6, #8e44ad, #2980b9);
+    color: #fff;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px; 
+  }
+  .footer-logo {
+    float: left;
+    font-size: 15px;
+  }
+  .footer-copy {
+    float: right;
+    font-size: 15px;
+}
